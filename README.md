@@ -1,2 +1,2 @@
-# hyperskill-python-hangman
-Solutin to the project Hangman by HyperSkill.
+# Hangman game
+Solution to the project [Hangman](https://hyperskill.org/projects/69) by HyperSkill.
